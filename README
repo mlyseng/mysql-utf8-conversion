@@ -1,0 +1,1 @@
+This script converts and dumps data from a mysql database to a new dump file which can be imported. The new data will be utf-8 encoded.
